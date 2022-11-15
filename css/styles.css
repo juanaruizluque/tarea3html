@@ -1,0 +1,58 @@
+
+a{
+  text-decoration: none;
+  color: #000000;
+}
+a:hover{
+  color: rgb(21, 0, 255);
+  font-weight: bold;
+}
+nav{
+
+  position:fixed;
+  background-color: rgba(190, 58, 41, 0.276);
+  }
+  
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+body{
+    background-color: rgb(224, 205, 205);
+    margin-top: 50px;
+}
+
+hr{
+  border-style: dotted none none none;
+   border: dotted #000000;
+   border-width: 0 0 7px;
+  width: 12%;
+}
+h1{
+  text-align: center;
+}
+h2{
+
+  color: #7b1a1a;
+}
+.profesor{
+  text-align: center;
+
+
+}
+.profe:hover{
+  font-weight: bold;
+  color: rgb(70, 109, 250);
+}
+h1:hover{
+  text-shadow: 2px 1px 5px #f46c54;
+}
+img{
+  width: 25%;
+   height: 30%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+}
